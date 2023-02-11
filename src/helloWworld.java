@@ -5,6 +5,7 @@ public class helloWworld {
        System.out.println(p.getNom());
        p.setNom("Malagasy");
        System.out.println(p.getNom());
+        System.out.println("Maison de retraite");
 
     }
 }
