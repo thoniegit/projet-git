@@ -3,5 +3,8 @@ public class helloWworld {
        Patient p= new Patient();
        p.setNom("Samson");
        System.out.println(p.getNom());
+       p.setNom("Malagasy");
+       System.out.println(p.getNom());
+
     }
 }
